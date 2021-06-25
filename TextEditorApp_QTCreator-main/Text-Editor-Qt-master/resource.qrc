@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>icons/bold.png</file>
+        <file>icons/underline.png</file>
+        <file>icons/super.png</file>
+        <file>icons/sub.png</file>
+        <file>icons/italic.jpg</file>
+        <file>data/aboutMe.html</file>
+        <file>data/page-1-converted.pdf</file>
+        <file>data/new.txt</file>
+        <file>data/page-1.jpeg</file>
+    </qresource>
+</RCC>
