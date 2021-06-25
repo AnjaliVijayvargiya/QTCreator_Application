@@ -92,3 +92,6 @@ checked ? ui->textEdit->setFontWeight(QFont::Bold) :
 4. https://www.programmersought.com/article/96575736142/
 5. https://forum.qt.io/topic/82420/show-picture-using-qlabel-and-pixmap/5
 6. https://github.com/nymika/Text-Editor-Qt
+
+### Result:
+![](Result/image.png)
