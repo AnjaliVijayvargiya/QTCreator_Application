@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>undo.png</file>
+        <file>save.png</file>
+        <file>save-as.png</file>
+        <file>redo.png</file>
+        <file>paste.png</file>
+        <file>open.png</file>
+        <file>New.png</file>
+        <file>cut.png</file>
+        <file>copy.png</file>
+        <file>icon/underline.png</file>
+        <file>icon/super.png</file>
+        <file>icon/sub.png</file>
+        <file>icon/italic.jpg</file>
+        <file>icon/bold.png</file>
+        <file>data/page-1-converted.pdf</file>
+        <file>data/page-1.jpeg</file>
+        <file>data/new.txt</file>
+        <file>data/aboutMe.html</file>
+    </qresource>
+</RCC>
